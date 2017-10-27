@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Omar González
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Blog totalmente creado de manera libre y natural.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars1.githubusercontent.com/u/8704732?s=400&u=973786df0d40569eca1b660042d9fbd498b48099&v=4
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/twomgdesigns
   instagram:
   linkedin:
   pinterest:
