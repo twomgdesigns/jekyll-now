@@ -11,3 +11,5 @@ bla bla bla
 ### Subsección 1
 
 mas de bla bla bla
+
+![despedinada]({{ site.baseurl }}/images/despeinada.jpg)
