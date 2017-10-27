@@ -11,10 +11,10 @@ title: Mi segundo artículo
 
 ## SubSección 2
 
-´´´ python
+''' python
 class Origin:
   def __init__(self):
     print("Prueba")
 o = Origin()
 
-´´´
+'''
