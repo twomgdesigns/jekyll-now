@@ -3,12 +3,12 @@ layout: post
 title: Mi primer artículo
 ---
 
-![despedinada]({{ site.baseurl }}/images/despeinada.jpg)
-
 Este es mi prímer artículo
 
 ## Sección 1
 bla bla bla
+
+![despedinada]({{ site.baseurl }}/images/despeinada.jpg)
 
 ### Subsección 1
 
